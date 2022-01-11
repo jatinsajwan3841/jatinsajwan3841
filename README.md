@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.  
-🎓 &nbsp;I'm currently studying Electronics and Communication at the GBPIET, Uttarakhand.  
+🎓 &nbsp;I'm currently studying Electronics and Communication at GBPIET, Uttarakhand.  
 🌱 &nbsp;I'm on track for learning more about Full stack web development and Cloud Technologies.  
 🚴‍♂️ &nbsp;In my free time, I like cycling, listening to music and I'm also learning to play flute.  
 ✉️ &nbsp;You can shoot me an email at jatinsajwan@hotmail.com! I'll try to respond as soon as I can.  
